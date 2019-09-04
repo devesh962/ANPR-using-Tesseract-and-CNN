@@ -3,6 +3,10 @@ This model focuses on Detection and Recognition of Number Plate.Detection is don
 
 Two different models are used to check the difference and accuracy of both the models on the same dataset and to chcek the pros and cons of both the models.
 
+**Functions of the .py files given above**
+The number_plate_detection_cnn.py file is used to detect the number plate of the car and the output of this model is given to the Number_Plate_Rec_CNN.py model for recognition using CNN.
+
+
 ## The whole Report on the above two models is attached Above.
 
 **Run the .py files on Google Colab**
