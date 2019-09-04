@@ -20,18 +20,18 @@ The number_recognition.py file is a basic file which just recognises number and 
 **Run the .py files on Google Colab**
 
 Number Plate Detection For CNN:
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXukSiiRhEh1lECShdc_VD4paBIDS0uF)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXukSiiRhEh1lECShdc_VD4paBIDS0uF)
 
 Number Plate Recognition For CNN:
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ej1GXv7TWFKUOCnGlODUKLwzUPpHYmc#scrollTo=k6-SmNQKgp-l)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ej1GXv7TWFKUOCnGlODUKLwzUPpHYmc#scrollTo=k6-SmNQKgp-l)
 
 Number Plate Detection and Recognition using Tesseract OCR:
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R9erxv2lw5MXXTvBtqoT55qf648D4Uwl#scrollTo=G3rzaLajGQZT)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R9erxv2lw5MXXTvBtqoT55qf648D4Uwl#scrollTo=G3rzaLajGQZT)
 
 Number Recognition:
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ybt8gmOoNS70cIkKoENRjLc0WiRlr5Y3)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ybt8gmOoNS70cIkKoENRjLc0WiRlr5Y3)
 
 
