@@ -6,8 +6,11 @@ Two different models are used to check the difference and accuracy of both the m
 **Functions of the .py files given above**
 
 The number_plate_detection_cnn.py file is used to detect the number plate of the car and the output of this model is given to the number_plate_rec_cnn.py model for recognition using CNN.
+
 These two .py files are used while using the CNN model.
+
 For Tesseract OCR model run the Tesseract_OCR.py file the detection and recognition is combined and put in this .py file all together ,no need to run any other file for Tesseract model.
+
 The number_recognition.py file is a basic file which just recognises number and is trained on mnist dataset.
 
 
@@ -17,4 +20,18 @@ The number_recognition.py file is a basic file which just recognises number and 
 **Run the .py files on Google Colab**
 
 Number Plate Detection For CNN:
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXukSiiRhEh1lECShdc_VD4paBIDS0uF)
+
+Number Plate Recognition For CNN:
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ej1GXv7TWFKUOCnGlODUKLwzUPpHYmc#scrollTo=k6-SmNQKgp-l)
+
+Number Plate Detection and Recognition using Tesseract OCR:
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R9erxv2lw5MXXTvBtqoT55qf648D4Uwl#scrollTo=G3rzaLajGQZT)
+
+Number Recognition:
+
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ybt8gmOoNS70cIkKoENRjLc0WiRlr5Y3)
+
+
