@@ -20,6 +20,7 @@ The number_recognition.py file is a basic file which just recognises number and 
 **Run the .py files on Google Colab**
 
 Number Plate Detection For CNN:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXukSiiRhEh1lECShdc_VD4paBIDS0uF)
 
 Number Plate Recognition For CNN:
