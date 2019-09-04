@@ -4,3 +4,8 @@ This model focuses on Detection and Recognition of Number Plate.Detection is don
 Two different models are used to check the difference and accuracy of both the models on the same dataset and to chcek the pros and cons of both the models.
 
 ## The whole Report on the above two models is attached Above.
+
+**Run the .py files on Google Colab**
+
+Number Plate Detection:
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
