@@ -36,6 +36,6 @@ Number Recognition:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ybt8gmOoNS70cIkKoENRjLc0WiRlr5Y3)
 
 
-For more in depth go to this link [License Plate Detection with OPencv and Python](https://cvisiondemy.com/license-plate-detection-with-opencv-and-python/)
+For more in depth go to this link [License Plate Detection with Opencv and Python](https://cvisiondemy.com/license-plate-detection-with-opencv-and-python/)
 
 
