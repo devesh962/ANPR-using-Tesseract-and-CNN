@@ -15,7 +15,7 @@ The number_recognition.py file is a basic file which just recognises number and 
 
 
 
-## The whole Report on the above two models is attached Above.
+## The Codes are implemented in Google Colab.
 
 **Run the .py files on Google Colab**
 
